@@ -1,0 +1,4 @@
+[build]
+
+[build.variables]
+RAILPACK_INSTALL_CMD = "npm ci && npm install --prefix server && npm install --prefix client --include=dev"
