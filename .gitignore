@@ -1,0 +1,20 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build output
+client/dist/
+
+# Environment files
+.env
+client/.env
+
+# Data file (optional — remove this line if you want to commit saved tasks)
+server/data/tasks.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code editor settings
+.vscode/
