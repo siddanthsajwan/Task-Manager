@@ -2,7 +2,7 @@
 
 A full-stack personal task manager built as part of the Studio Graphene Full Stack Developer assessment. One user, no authentication — just clean, fast task management.
 
-**Live Demo:** _Add your deployed URL here after deployment_
+**Live Demo:** https://task-manager-xi-ebon.vercel.app/
 
 ---
 
